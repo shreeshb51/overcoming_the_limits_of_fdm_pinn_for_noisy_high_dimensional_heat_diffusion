@@ -4,9 +4,9 @@
 
 This project presents a Physics-Informed Neural Network (PINN) framework for solving transient heat diffusion under noisy boundary conditions across one, two, and three spatial dimensions, establishing clear operational regimes that redefine solver selection against classical Finite Difference Methods (FDM). Under 20% boundary noise in 3D, PINN sustains ~91% accuracy while FDM collapses to ~36%. A physical copper thermal case study confirms PINN reduces boundary reconstruction error by 3.3× under realistic noise. A dimensionality-driven efficiency crossover is also identified: PINN requires fewer space-time nodes than FDM in 3D while simultaneously achieving superior accuracy, exposing the true cost of classical discretization at scale.
 
-**Authors:** <!-- Add authors here -->
+<!-- **Authors:** Add authors here -->
 
-**Paper:** <!-- Link to Paper.pdf once available -->
+<!-- **Paper:** Link to Paper.pdf once available -->
 
 **Key Specifications:**
 - **Domain:** Unit domain [0,1]ⁿ, spatial grid 15ⁿ (dx=0.0714 m), temporal range t∈[0,60]s (100 steps)
