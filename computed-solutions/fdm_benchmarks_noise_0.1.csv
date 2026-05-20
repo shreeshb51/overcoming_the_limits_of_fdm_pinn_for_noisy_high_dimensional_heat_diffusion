@@ -1,0 +1,4 @@
+dimension,method,noise_std,execution_time_s,memory_usage_MB
+3d,explicit FDM,0.1,0.014272759000050428,0.02574920654296875
+3d,implicit FDM,0.1,2.6740250809998543,0.02574920654296875
+3d,crank_nicolson FDM,0.1,2.619968328000141,0.02574920654296875
