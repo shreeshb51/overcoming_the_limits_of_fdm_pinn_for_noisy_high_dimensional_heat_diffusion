@@ -1,0 +1,2 @@
+# overcoming_the_limits_of_fdm_pinn_for_noisy_high_dimensional_heat_diffusion
+
